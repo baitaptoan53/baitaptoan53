@@ -29,7 +29,7 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/baitaptoan53/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/baitaptoan53/Laravel_tutorial)
 <!--END_SECTION:waka-->
 
 [Facebook]:        https://www.facebook.com/xuanngoc.22
