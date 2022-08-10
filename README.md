@@ -24,7 +24,7 @@
 <br>
 
 ---
-<figure><embed src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/a00aacf9-33b1-4e11-9b73-01ecce48dbcf.svg"></embed></figure>
+ <img src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/a00aacf9-33b1-4e11-9b73-01ecce48dbcf.svg" alt="Wakatime" />
 
 <figure><embed src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/38516e99-d67b-496f-bc93-da8c9f2823bb.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/27d5a081-d0ce-48fa-980b-2bb214f41c93.svg"></embed></figure>
