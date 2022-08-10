@@ -27,11 +27,11 @@
 ### Lenguages Activity over All Time
 
 
-<img src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/27d5a081-d0ce-48fa-980b-2bb214f41c93.svg" with = '40px' hight = '40px'/>
+<img  height="320" width="320" src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/27d5a081-d0ce-48fa-980b-2bb214f41c93.svg" with = />
 
 ### Coding Activity over All Time
 
-<img src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/dedb841e-0262-4bf6-8b99-565dfb412f29.svg" with = '40px' hight = '40px'/>
+<img  height="320" width="320" src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/dedb841e-0262-4bf6-8b99-565dfb412f29.svg" />
 
 
 ---
