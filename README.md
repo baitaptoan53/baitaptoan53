@@ -26,9 +26,11 @@
 ---
 <figure><embed src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/a00aacf9-33b1-4e11-9b73-01ecce48dbcf.svg"></embed></figure>
 
+<figure><embed src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/38516e99-d67b-496f-bc93-da8c9f2823bb.svg"></embed></figure>
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/baitaptoan53/Laravel_tutorial)
 <!--END_SECTION:waka-->
 
