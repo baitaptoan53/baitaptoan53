@@ -33,7 +33,7 @@
 
 ### Lenguages Activity over All Time
 
-<img src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/27d5a081-d0ce-48fa-980b-2bb214f41c93.svg" />
+<img src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/3582eaee-a059-4ed1-97b0-088e500d9aa0.svg" />
 
 ### Coding Activity over All Time
 
