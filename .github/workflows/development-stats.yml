@@ -2,8 +2,8 @@ name: Realtime Development Stats
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 * * * *'
+    #run every minute
+    cron: "* * * * *"
 
 jobs:
   update-readme:
