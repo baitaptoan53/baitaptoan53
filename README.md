@@ -41,13 +41,6 @@
 <img   src="https://wakatime.com/share/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407/d842b5df-e6b6-470e-a97e-e7de5fa1199f.svg"/>
 
 ---
-[![wakatime](https://wakatime.com/badge/github/baitaptoan53/Laravel_tutorial.svg)](https://wakatime.com/badge/github/baitaptoan53/Laravel_tutorial)
-
-### Coding Stars
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Profile Visits:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baitaptoan53.baitaptoan53&left_color=green&right_color=red)
 
