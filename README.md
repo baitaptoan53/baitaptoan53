@@ -23,6 +23,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
 <br>
 
+
 ### Databases:
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
@@ -48,5 +49,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baitaptoan53)](https://github.com/baitaptoan53/Laravel_tutorial)
 
 <!--END_SECTION:waka-->
+### Profile Visits:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=baitaptoan53.baitaptoan53&left_color=green&right_color=red)
 
 [facebook]: https://www.facebook.com/xuanngoc.22
