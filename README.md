@@ -42,13 +42,12 @@
 
 ---
 
-### Development Stats
+
+### Coding Stars
 
 <!--START_SECTION:waka-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baitaptoan53)](https://github.com/baitaptoan53/Laravel_tutorial)
-
 <!--END_SECTION:waka-->
+
 ### Profile Visits:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baitaptoan53.baitaptoan53&left_color=green&right_color=red)
 
