@@ -4,7 +4,6 @@ on:
   schedule:
     #run 15:15 everyday
     - cron: "15 15 * * *"
-    - zone: "Asia/Ho_Chi_Minh"
 jobs:
   update-readme:
     name: Update Readme with Metrics
