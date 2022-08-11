@@ -2,7 +2,9 @@ name: Realtime Development Stats
 
 on:
   schedule:
-    cron: "* * * * *"
+    #run code every day at midnight
+    cron: "0 0 * * *"
+    zone: "Asia/Ho_Chi_Minh"
 
 jobs:
   update-readme:
