@@ -2,7 +2,8 @@ name: Realtime Development Stats
 
 on:
   schedule:
-    cron: "0 0 * * *"
+    # always:
+   - cron: '0 0 * * *'
 
 jobs:
   update-readme:
