@@ -46,7 +46,6 @@
 ### Coding Stars
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ### Profile Visits:
