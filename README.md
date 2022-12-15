@@ -29,7 +29,6 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <br>
 <br>
-
 ---
 
 ### Lenguages Activity over All Time
@@ -50,6 +49,7 @@ SHOW_TOTAL_CODE_TIME = True
 SHOW_COMMIT = True
 SHOW_DAYS_OF_WEEK = True
 SHOW_LANGUAGE = True
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C574%20hrs%2054%20mins-blue)
 <!--END_SECTION:waka-->
 ---
 ### Profile Visits:
