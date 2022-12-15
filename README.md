@@ -46,6 +46,10 @@
 
 ### Coding Stars
 <!--START_SECTION:waka-->
+SHOW_TOTAL_CODE_TIME = True
+SHOW_COMMIT = True
+SHOW_DAYS_OF_WEEK = True
+SHOW_LANGUAGE = True
 <!--END_SECTION:waka-->
 ---
 ### Profile Visits:
