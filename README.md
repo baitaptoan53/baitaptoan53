@@ -49,7 +49,6 @@ SHOW_TOTAL_CODE_TIME = True
 SHOW_COMMIT = True
 SHOW_DAYS_OF_WEEK = True
 SHOW_LANGUAGE = True
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C574%20hrs%2054%20mins-blue)
 <!--END_SECTION:waka-->
 ---
 ### Profile Visits:
