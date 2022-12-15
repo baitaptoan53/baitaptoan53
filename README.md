@@ -29,6 +29,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <br>
 <br>
+
 ---
 
 ### Lenguages Activity over All Time
@@ -46,6 +47,11 @@
 ### Coding Stars
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+### Coding Time
+[![wakatime](https://wakatime.com/badge/user/ce1dd1f2-32f7-4b3a-b1ac-d07601d59407.svg)](https://wakatime.com/@ce1dd1f2-32f7-4b3a-b1ac-d07601d59407)
+
 ---
 ### Profile Visits:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baitaptoan53.baitaptoan53&left_color=green&right_color=red)
